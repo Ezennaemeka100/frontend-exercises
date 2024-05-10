@@ -1,0 +1,37 @@
+* {
+  box-sizing: content-box;
+}
+
+body {
+  font-family: poppins, sans-serif;
+  background: rgb(248, 147, 113);
+}
+
+.mma {
+  height: 400px;
+  width: 400px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-top: 100%;
+  margin: auto;
+  border-radius: 20px;
+  text-size-adjust: auto;
+}
+
+header {
+  background-color: aqua;
+  margin-top: 50%;
+  border-radius: 20px 20px 0 0;
+  padding: .1rem;
+}
+
+.buba {
+  height: 400px;
+  width: 400px;
+}
+table{
+  width: 100%;
+  padding-top: .5rem;
+  height: 70%;
+}
